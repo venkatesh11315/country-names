@@ -1,0 +1,33 @@
+.container{
+    margin-top: 2rem;
+    
+}
+
+.inputvalue{
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
+.btn{
+    border-radius: 2rem;
+    margin-top: 2rem;
+}
+.img{
+    height: 20rem;
+    width: 20rem;
+
+}
+.result{
+    align-content: center;
+    margin-top: 2rem;
+   
+    
+}
+.card{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+.input{
+    margin-left: 10rem;
+    
+}
+
